@@ -1,5 +1,7 @@
 ## Zijun CHEN 陈梓君
 
+[editor on GitHub](https://github.com/zchendg/zchendg.github.io/edit/main/index.md)
+
 [Department of Mathematics](https://www.math.hkust.edu.hk/)<br>
 [Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hans)<br>
 Clear Water bay, Hong Kong, China<br>
