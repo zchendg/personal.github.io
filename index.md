@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Zijun CHEN 陈梓君
+
+[Department of Mathematics] (https://www.math.hkust.edu.hk/)
+[Hong Kong University of Science and Technology] (https://hkust.edu.hk/zh-hans)
+Clear Water bay, Hong Kong, China
+[Email] (718908213@qq.com) / WeChat
+
+
+I'am currently a Final Year Undergraduate Student in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hans). 
+
+
+<details>
+<summary>Course List </summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
+
+<div STYLE="page-break-after: always;"></div>
+
 
 You can use the [editor on GitHub](https://github.com/zchendg/zchendg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
